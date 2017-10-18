@@ -1,3 +1,5 @@
+[I worked on this project as an undergrad research assistant. I mainly wrote code for the file lin_ev.js in the folder Preliminary_Evaluation_Interface]
+
 This repository contains data, code, and other supplementary materials for the IEEE InfoVis 2017 paper 'Imagining Replications: How Graphical Prediction & Discrete Visualizations Impact Recall & Estimation of Experimental Uncertainty.'
 
 Authors: Jessica Hullman, Matthew Kay, Yea-Seul Kim, Samana Shrestha
